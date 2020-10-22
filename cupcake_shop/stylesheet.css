@@ -1,0 +1,48 @@
+/* colors:
+dark blue = #28536B
+tan = #C09187
+light blue = #7EA8BE
+off white = #F6F0ED
+*/
+/* sans serif for headings, lists and anywhere with little text */
+
+body{
+    background-color: #C09187 ;
+    color: #28536B;
+    font-family: serif;
+}
+
+h1{
+    font-family: sans-serif;
+}
+
+.nav_menu h2{
+    font-family: sans-serif;
+    display: inline-block; 
+}
+
+.nav_menu{
+    background-color: #28536B;
+    display : inline-block;
+}
+
+a:link{
+    color : #F6F0ED;
+}
+
+a:visited{
+    color : #F6F0ED;
+}
+
+#fancy{
+    font-family: sans-serif;
+    display: inline-block;
+    background-color: #7EA8BE;
+    color: #28536B;
+}
+
+#second{
+    float: inline-end;
+}
+
+
